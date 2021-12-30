@@ -1,0 +1,13 @@
+.maploop{
+    background-color: aquamarine;
+    border: 2px solid red;
+    padding: 10px;
+    margin: 5px;
+}
+.tranparentback{
+    background-color: white;
+    border: 2px solid green;
+    padding: 10px;
+    margin: 5px;
+
+}

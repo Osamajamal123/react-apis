@@ -1,0 +1,63 @@
+.flexdiv{
+    display: flex;
+  
+}
+.flexdiv .tanloneflex{
+display: flex;
+padding-right: 70px;
+}
+.whiteback{
+    background-color: wheat;
+    height: 220px;
+    width: 160px;
+    border-radius: 10px;
+}
+
+.ulFlex{
+    margin: 0px;
+}
+.ulFlex li{
+    list-style: none;
+    padding-bottom: 30px;
+}
+
+.flexdiv .tanloneflex2{
+display: flex;
+}
+.flexdiv .tanloneflex2 .whiteback2{
+    background-color: wheat;
+    height: 220px;
+    width: 160px;
+    border-radius: 10px;
+    /* display: flex;
+    align-items: flex-end; */
+}
+.blueback{
+    background-color: blue;
+    height: 100%;
+    width: 100%;
+
+}
+.darkcolor{
+    color: darkgrey;
+}
+.blackcolor{
+    color: black;
+}
+.ulFlex2{
+    margin: 0px;
+}
+.ulFlex2 li{
+    list-style: none;
+    padding-bottom: 30px;
+}
+.flexdiv .tanloneflex2 .whiteback2 .flexEndcolor{
+    display: grid;
+    align-items: flex-end;
+    height: 100%;
+}
+.flexdiv .tanloneflex .whiteback .flexEndcolor2{
+    display: grid;
+    align-items: flex-end;
+    height: 100%;
+}

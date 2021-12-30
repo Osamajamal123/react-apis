@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "name":"glasses",
+        "price":"20$",
+        "quantity":"0"
+    },
+    {
+        "id":"2",
+        "name":"shampoo",
+        "price":"20$",
+        "quantity":"0"
+    },
+    {
+        "id":"3",
+        "name":"bag",
+        "price":"10$",
+        "quantity":"0"
+    },
+    {
+        "id":"4",
+        "name":"watch",
+        "price":"10$",
+        "quantity":"0"
+    },
+    {
+        "id":"5",
+        "name":"shoes",
+        "price":"30$",
+        "quantity":"0"
+    }
+]
